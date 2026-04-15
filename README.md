@@ -43,9 +43,9 @@ Backend-focused engineer · System design · Problem solver.
       <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white" />
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/Narsing1727/HYDROSPHERE2">HYDROSPHERE2</a></h4>
-      <p>Hydrological modelling system and supporting simulation tooling for the Nerolith ecosystem.</p>
-      <img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white" />
+     <h4><a href="https://github.com/Narsing1727/Vault">Vault</a></h4>
+<p>Scalable backend ledger system for managing company deposits and transactions. Designed for consistency, concurrency control, and reliable transaction processing in distributed environments.</p>
+<img src="https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript&logoColor=white" />
     </td>
   </tr>
 </table>
