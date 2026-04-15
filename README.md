@@ -12,12 +12,7 @@
   </p>
 </div>
 
----
 
-Building scalable simulation platforms for real-world disaster scenarios.
-Backend-focused engineer · System design · Problem solver.
-
----
 
 ### Projects
 
