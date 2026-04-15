@@ -4,18 +4,18 @@
 
 <div align="center">
   <h1>Narsing Sharma</h1>
-  <p><code>Systems Builder · IIT Roorkee · B.Tech 2028</code></p>
+
   <p>
     <img src="https://img.shields.io/badge/LeetCode-Knight-black?style=flat-square&logo=leetcode&logoColor=white" />
     <img src="https://img.shields.io/badge/Codeforces-~1500-black?style=flat-square&logo=codeforces&logoColor=white" />
-    <img src="https://komarev.com/ghpvc/?username=Narsing1727&style=flat-square&color=black&label=views" />
+  
   </p>
 </div>
 
 ---
 
-Building simulation infrastructure for real-world disaster systems.  
-C++ engine architect · Qt/OpenGL renderer · Competitive programmer.
+Building scalable simulation platforms for real-world disaster scenarios.
+Backend-focused engineer · System design · Problem solver.
 
 ---
 
@@ -25,7 +25,8 @@ C++ engine architect · Qt/OpenGL renderer · Competitive programmer.
   <tr>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/Narsing1727/Nerolith_Cortex">Nerolith_Cortex</a></h4>
-      <p>AI flood simulation desktop application. Qt6 + OpenGL 3D renderer, LLaMA 3.1 integration, Azure Blob storage, Meteostat weather APIs, D8 flow algorithm.</p>
+      <p>AI-powered disaster simulation agent for flood modeling. 
+.</p>
       <img src="https://img.shields.io/badge/Python-black?style=flat-square&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/status-active-black?style=flat-square" />
     </td>
