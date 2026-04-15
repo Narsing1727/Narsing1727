@@ -67,6 +67,3 @@ Backend-focused engineer · System design · Problem solver.
 
 ---
 
-<div align="center">
-  <sub>IIT Roorkee · CGPA 8.0 · targeting SDE internships July 2025</sub>
-</div>
